@@ -21,7 +21,7 @@ Add it to the `config` array, and put it in the plugins folder
 ```
 config: [
     plugins: {
-        "physics": true
+        "physics"
     }
 ]
 ```
