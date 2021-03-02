@@ -25,5 +25,9 @@ config: [
     }
 ]
 ```
-
+## Using
+1. Run `git clone https://github.com/zurgeg/p3d-simpleengine` to get `simpleengine`
+2. Copy the `levels/level.json` and the `levels/scripts` folder to the `p3d-simpleengine` folder
+3. Type `cd p3d-simpleengine` and run `python(3) core.py`
+4. Enjoy!
 
