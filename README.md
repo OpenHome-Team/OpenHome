@@ -17,14 +17,8 @@ objects: [
 ]
 ```
 ### Adding Plugins
-Add it to the `config` array, and put it in the plugins folder
-```
-config: [
-    plugins: {
-        "physics"
-    }
-]
-```
+Add it to the `scripts` folder
+
 ## Using
 1. Run `git clone https://github.com/zurgeg/p3d-simpleengine` to get `simpleengine`
 2. Copy the `levels/level.json` and the `levels/scripts` folder to the `p3d-simpleengine` folder
